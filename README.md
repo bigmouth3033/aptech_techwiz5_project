@@ -1,4 +1,6 @@
-ARTS Project - E-commerce website - Semester 3 - FPT Aptech
+Techwiz5 Project - DecorVista - FPT Aptech
+
+This project won second place in TechWiz 5, a global programming competition created by Aptech India.
 
 Technologies used: C# - HTML/CSS/JS - ReactJS - React Query - Styled-Components - SCSS
 
